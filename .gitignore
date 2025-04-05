@@ -1,0 +1,12 @@
+cypress/downloads/
+cypress/screenshots/
+cypress/videos/
+Cypress logs
+cypress/logs/
+node_modules/
+.cache/
+.cypress_cache/
+.DS_Store
+Thumbs.db
+.env
+.env.local
